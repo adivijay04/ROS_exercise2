@@ -1,5 +1,5 @@
 # ROS_exercise2
-ROS creating a simple service node with server and client. To understand ROS, I have provided links in my previous exercise1: https://github.com/adivijay04/ROS_exercise1
+In ROS, creating a simple service node with server and client. To understand ROS, I have provided links in my previous exercise1: https://github.com/adivijay04/ROS_exercise1
 
 # Problem Statement of Exercise 2
 1.Create a package exercise2
